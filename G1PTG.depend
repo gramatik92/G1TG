@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510142508 source:c:\users\cenzo\desktop\efrei\projet\théorie des graphes\g1_ptg\main.c
+	<stdio.h>
+	<stdlib.h>
+
